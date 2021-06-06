@@ -30,7 +30,7 @@
 
 |                             Main                             |                             News                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![image-20210606165434250](D:\Programming\FastCampus\김민태의 프론트엔드 아카데미\Hacker-News-Client-App\README.assets\image-20210606165434250.png) | ![image-20210606165942096](D:\Programming\FastCampus\김민태의 프론트엔드 아카데미\Hacker-News-Client-App\README.assets\image-20210606165942096.png) |
+| ![image-20210606165434250](README.assets\image-20210606165434250.png) | ![image-20210606165942096](README.assets\image-20210606165942096.png) |
 
 
 
